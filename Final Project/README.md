@@ -3,9 +3,9 @@
 
 Scopul proiectului final pentru cursul de testare manuală ITF este de a folosi toate cunoștințele acumulate de-a lungul cursului și de a le aplica în practică, folosind o aplicație live.
 
-Aplicație în curs de testare: https://opensource-demo.orangehrmlive.com/
+Website în curs de testare: https://www.amaratour.ro/
 
-Documentația API: https://orangehrm.github.io/orangehrm-api-doc/
+Documentația API: https://www.amaratour.ro/amaratour-api-doc/
 
 **Proiectul final va fi împărțit în 2 secțiuni: [Secțiunea de testare](https://github.com/iulia6/Proiect-Practic-Testare-Manuala/blob/main/README.md#1-sec%C8%9Biunea-de-testare) și [Secțiunea SQL](https://github.com/iulia6/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-sec%C8%9Biunea-sql)).**
 
