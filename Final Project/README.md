@@ -131,4 +131,4 @@ Următoarele elemente sunt necesare pentru a fi pregătite înainte de începere
 
 # 2 Secțiunea SQL
 
-A creat o bază de date numită „orangehrm” și un tabel numit „dependenți” cu toate coloanele necesare pentru a salva datele conform specificațiilor. Au efectuat diferite interogări în interiorul fișierului sql: [dependents.sql](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/dependents.sql)
+A creat o bază de date numită „amaratour” și un tabel numit „clienti” cu toate coloanele necesare pentru a salva datele conform specificațiilor. Au efectuat diferite interogări în interiorul fișierului sql: [clienti.sql](https://github.com/iulia6/itf_manual_testing_final_project_template/blob/main/Final%20Project/SQL)
