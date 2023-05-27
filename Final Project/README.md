@@ -7,7 +7,7 @@ Website în curs de testare: https://www.amaratour.ro/
 
 Documentația API: https://www.amaratour.ro/amaratour-api-doc/
 
-**Proiectul final va fi împărțit în 2 secțiuni: [Secțiunea de testare](https://github.com/iulia6/Proiect-Practic-Testare-Manuala/blob/main/README.md#1-sec%C8%9Biunea-de-testare) și [Secțiunea SQL](https://github.com/iulia6/Proiect-Practic-Testare-Manuala/edit/main/README.md#2-sec%C8%9Biunea-sql)).**
+**Proiectul final va fi împărțit în 2 secțiuni: [Secțiunea de testare](https://github.com/iulia6/Proiect-Practic-Testare-Manuala/blob/main/README.md#1-sec%C8%9Biunea-de-testare) și [Secțiunea SQL](https://github.com/iulia6/itf_manual_testing_final_project_template/blob/main/Final%20Project/SQL)).**
 
 Instrumente folosite: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
