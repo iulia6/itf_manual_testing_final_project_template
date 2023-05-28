@@ -22,16 +22,16 @@ Povestea de mai jos a fost creată în JIRA și descrie specificațiile funcțio
 
 ## 1.1 Planificarea testelor
 
-Planul de testare este conceput pentru a descrie toate detaliile testării pentru modulul Dependenți din aplicația OrangeHRM.
+Planul de testare este conceput pentru a descrie toate detaliile testării pentru modulul Dependenți din websiteul Amara Tour.
 
 Planul identifică elementele de testat, caracteristicile care trebuie testate, tipurile de testare care trebuie efectuate, personalul responsabil de testare, resursele și programul necesar pentru finalizarea testării și riscurile asociate cu planul.
 
 #### 1.1.1 Rolurile atribuite proiectului și persoanele alocate
 
-* Manager de proiect - Andrei Popescu
-* Product owner - Mădălina Ionescu
-* Dezvoltator software - Gabriela Tomescu
-* Inginer QA - Iulia Albu
+* Manager de proiect - Ormenisan Vlad
+* Product owner - Florea Ioana
+* Dezvoltator software - Vasiu Tudor
+* Inginer QA - Negru Silvia
 
 #### 1.1.2 Criteriile de intrare definite
 
@@ -72,7 +72,7 @@ Următorul raport de stare a fost generat după ce 40% din cazurile de testare a
 
 ## 1.3 Analiza testului
 
-Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulul Dependenți. Au fost găsite următoarele condiții de testare:
+Procesul de testare va fi executat pe baza cerințelor de mai sus pentru modulul Clienti. Au fost găsite următoarele condiții de testare:
   * Introduceți date numai pentru câmpurile obligatorii și verificați dacă persoana dependentă este creată/actualizată
   * Introduceți datele pentru toate câmpurile disponibile și verificați dacă persoana dependentă este creată/actualizată
   * Lăsați câmpurile obligatorii goale și verificați dacă persoana dependentă nu poate fi creată/actualizată
